@@ -1,6 +1,6 @@
 #Projekt - Bazy Danych - NotesDB
 
-Projekt ten został przygotowany na zajęcia z Baz Danych. Jest to aplikacja napisana w React - przeznaczona do dodawania i przechowywania notatek tekstowych.
+Projekt ten został przygotowany na zajęcia z Baz Danych. Baza danych przeznaczona do dodawania i przechowywania notatek tekstowych.
 
 
 
