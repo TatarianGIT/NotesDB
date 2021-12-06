@@ -6,7 +6,7 @@ $$
 DECLARE
 	finalMessage varchar;
 BEGIN
-IF ((SELECT type FROM "textElement" WHERE textElementID = ID) = 3) AND (length(editedText) > 280)
+IF ((SELECT type FROM "textElement" WHERE textElementID = ID) = 1) AND (length(editedText) > 280)
 	THEN finalMessage = 'ERROR - tweet cannot be longer that 280 characters!';
 	return finalMessage;
 ELSE
